@@ -1,0 +1,12 @@
+.theme-solarized_light-css-check:before {
+  content: 'loaded';
+  display: none;
+}
+
+.extras {
+  .icon {
+    &:hover {
+      background-color: #D6D1C0;
+    }
+  }
+}
